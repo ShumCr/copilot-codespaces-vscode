@@ -6,7 +6,7 @@
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
+  Add your open source license, GitHub uses the MIT license. 
 -->
 
 # Code with GitHub Copilot
